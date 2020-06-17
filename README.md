@@ -1,2 +1,3 @@
 # RazeCore
-Coursework
+
+A description of this package.
